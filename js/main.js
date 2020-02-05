@@ -18,7 +18,7 @@ console.log('Tengo' + ' ' + amountMXN/EURToMXN + ' ' + 'euros')
 
 //Pesos a Pesos colombianos
 var CUCToMXN = 12
-console.log ('Tengo' + ' ' + amountMXN/CUCToMXN + ' ' + 'pesos cubanos') 
+console.log('Tengo' + ' ' + amountMXN/CUCToMXN + ' ' + 'pesos cubanos') 
 
 
 
@@ -33,5 +33,5 @@ DEprecar los meses a 30
  var diaEnSegundos = 43200 
  var mesEnSegundos = 1296000
 
- 
+
  console.log('Tengo' + ' ' + edadActual*mesEnSegundos + ' ' + 'segundos de vida.')
